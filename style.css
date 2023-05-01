@@ -23,7 +23,7 @@ li {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    min-height: 90vh;
+    min-height: 800px;
     width: 390px;
     background-color: black;
     color: white;
